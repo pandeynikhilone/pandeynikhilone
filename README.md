@@ -1,4 +1,4 @@
-[![Nikhil Pandey's GitHub Banner](banner.jpg)]()
+[![Nikhil Pandey's GitHub Banner](assets/svg/profile_/banner.jpg)]()
 
 <h3 align="center">AI/ML Enthusiast From India</h3>
 <img src="githubSideImage.png" align="right" width="300px" height="300px"> 
