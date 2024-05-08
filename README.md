@@ -1,7 +1,7 @@
 ![Nikhil Pandey's GitHub Banner](assets/svg/profile_/banner.jpg)
 
 <h3 align="center">AI/ML Enthusiast From India</h3>
-<img src="assets/svg/profile_/sideImage.png" align="right" width="300px" height="300px"> 
+<img src="assets/svg/profile_/sideImage.png" align="right" width="300px" height="290px"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpandey1010&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpandey1010" /> </p>
 
 - 🔭 I’m currently working on **ELIZA**
