@@ -19,7 +19,7 @@
 
 | Python3 | C | JS | C++ | HTML | CSS |
 |----------|----------|----------|-------|-------|------|
-| <img src="assets/svg/icons/python.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="assets/svg/icons/c.jpg" title="C"  alt="C" width="55" height="55"/> |  <img src="assets/svg/icons/js.png" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="assets/svg/icons/c++.svg" title="Cpp" alt="Cpp" width="55" height="55"/> |  <img src="assets/svg/icons/html-5.png" title="html" alt="html" width="57" height="55"/>| <img src="assets/svg/icons/css.svg" title="html" alt="html" width="57" height="55"/>| 
+| <img src="assets/svg/icons/python.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="assets/svg/icons/c.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="assets/svg/icons/js.png" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="assets/svg/icons/c++.svg" title="Cpp" alt="Cpp" width="55" height="55"/> |  <img src="assets/svg/icons/html-5.png" title="html" alt="html" width="57" height="55"/>| <img src="assets/svg/icons/css.svg" title="html" alt="html" width="57" height="55"/>| 
 
 ### Best frameworks and main libraries for Python3:
 
