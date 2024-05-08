@@ -1,7 +1,7 @@
 ![Nikhil Pandey's GitHub Banner](assets/svg/profile_/banner.jpg)
 
 <h3 align="center">AI/ML Enthusiast From India</h3>
-<img src="assets/svg/profile_/sideImage.png" align="right" width="300px" height="290px"> 
+<img src="assets/svg/profile_/sideImage.png" align="right" width="300px" height="300px"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpandey1010&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpandey1010" /> </p>
 
 - 🔭 I’m currently working on **ELIZA**
@@ -12,13 +12,9 @@
 
 - ⚡ Fun fact: **I love cooking!**
 
-<!-- - Tweaking this README for optimal engagement 
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
- -->
-
 ## Languages and Tools 
+<pre>
+
 <div>
 
 ### Languages:
@@ -49,3 +45,4 @@
 | Linux | Ubuntu | Kali |
 |----------|----------|----------|
 | <img src="" title="Linux" alt="Linux" width="55" height="55"/> | <img src="" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="" title="Linux" alt="Linux" width="55" height="55"/> |
+</pre>
