@@ -12,8 +12,6 @@
 
 - ⚡ Fun fact: **I love cooking!**
 
-### Working on: 🚀
-
 <!-- - Tweaking this README for optimal engagement 
 - [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
 - [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
