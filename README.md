@@ -15,25 +15,25 @@
 
 <div>
 
-### Languages:
+### Languages & Frontend
 
 | Python3 | C | JS | C++ | HTML | CSS |
 |----------|----------|----------|-------|-------|------|
 | <img src="assets/svg/icons/python.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="assets/svg/icons/c.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="assets/svg/icons/js.png" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="assets/svg/icons/c++.svg" title="Cpp" alt="Cpp" width="55" height="55"/> |  <img src="assets/svg/icons/html-5.png" title="html" alt="html" width="57" height="55"/>| <img src="assets/svg/icons/css.svg" title="html" alt="html" width="57" height="55"/>| 
 
-### Best frameworks and main libraries for Python3:
+### AI/ML
 
 | Tensorflow | Keras | Numpy | Pandas | Sklearn | Matplotlib | Django | flask |
 |----------|----------|----------|----------|----------|----------|----------|----------|
 |  <img src="assets/svg/icons/tensorflow.svg" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/>|  <img src="assets/svg/icons/keras.png" title="Keras"  alt="Keras" width="" height="25"/>|  <img src="assets/svg/icons/numpy.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="assets/svg/icons/pandas.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="assets/svg/icons/scikit.svg" title="sklearn" alt="sklearn" width="" height="50"/>|  <img src="assets/svg/icons/matplotlib.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="assets/svg/icons/django.png" title="Django" alt="Django" width="55" height="55"/>|<img src="assets/svg/icons/flask.svg" title="flask" alt="flask" width="55" height="55"/>
 
-### My tools for Data Manipulation:
+### Data Manipulation
 
-| Conda | Jupyter | Spark | MySQL | Postgres | SQLite |
-|----------|----------|----------|----------|----------|----------|
-|<img src="" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="" title="Spark" alt="Spark" width="55" height="55"/>|<img src="" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="" title="pg" alt="pg" width="55" height="55"/>|<img src="" title="SQLite" alt="SQLite" width="55" height="55"/>|
+| Excel | Jupyter | PowerBI | MySQL | Tableau |
+|----------|----------|----------|----------|----------|
+|<img src="assets/svg/icons/excel.svg" title="Excel" alt="Excel" width="55" height="55"/>|<img src="assets/svg/icons/jupyter.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="assets/svg/icons/PowerBI.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/>|<img src="assets/svg/icons/mysql.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="assets/svg/icons/tableau.svg" title="Tableau" alt="Tableau" width="55" height="55"/>|
 
-### Environments, Testing, Other:
+<!-- ### Environments, Testing, Other
 
 | nodejs | Git | Docker | Pytest | Swagger | Postman | Virtual Box| HardHat |
 |----------|----------|----------|----------|----------|----------|----------|----------|
@@ -43,4 +43,4 @@
 
 | Linux | Ubuntu | Kali |
 |----------|----------|----------|
-| <img src="" title="Linux" alt="Linux" width="55" height="55"/> | <img src="" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="" title="Linux" alt="Linux" width="55" height="55"/> |
+| <img src="" title="Linux" alt="Linux" width="55" height="55"/> | <img src="" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="" title="Linux" alt="Linux" width="55" height="55"/> | -->
