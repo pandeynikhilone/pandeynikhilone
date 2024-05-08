@@ -12,10 +12,7 @@
 
 - ⚡ Fun fact: **I love cooking!**
 
-<pre>
 
-## Languages and Tools 
-</pre>
 <div>
 
 ### Languages:
