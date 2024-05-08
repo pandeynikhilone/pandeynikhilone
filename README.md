@@ -13,11 +13,10 @@
 - ⚡ Fun fact: **I love cooking!**
 
 ## Languages and Tools 
-<pre>
-
 <div>
 
 ### Languages:
+
 | Python3 | C | JS | C++ | HTML | CSS |
 |----------|----------|----------|-------|-------|------|
 | <img src="assets/svg/icons/python.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="assets/svg/icons/c.jpg" title="C"  alt="C" width="55" height="55"/> |  <img src="assets/svg/icons/js.png" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="assets/svg/icons/c++.svg" title="Cpp" alt="Cpp" width="55" height="55"/> |  <img src="assets/svg/icons/html-5.png" title="html" alt="html" width="57" height="55"/>| <img src="assets/svg/icons/css.svg" title="html" alt="html" width="57" height="55"/>| 
@@ -45,4 +44,3 @@
 | Linux | Ubuntu | Kali |
 |----------|----------|----------|
 | <img src="" title="Linux" alt="Linux" width="55" height="55"/> | <img src="" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="" title="Linux" alt="Linux" width="55" height="55"/> |
-</pre>
