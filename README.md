@@ -25,7 +25,7 @@
 
 | Tensorflow | Keras | Numpy | Pandas | Sklearn | Matplotlib | Django | flask |
 |----------|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="assets/svg/icons/tensorflow.svg" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/>|  <img src="assets/svg/icons/keras.png" title="Keras"  alt="Keras" width="" height="25"/>|  <img src="assets/svg/icons/numpy.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="assets/svg/icons/pandas.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="assets/svg/icons/scikit.svg" title="sklearn" alt="sklearn" width="" height="50"/>|  <img src="assets/svg/icons/matplotlib.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="assets/svg/icons/django.png" title="Django" alt="Django" width="55" height="55"/>|<img src="assets/svg/icons/flask.svg" title="flask" alt="flask" width="55" height="55"/>
+|  <img src="assets/svg/icons/tensorflow.svg" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/>|  <img src="assets/svg/icons/keras.png" title="Keras"  alt="Keras" width="" height="25"/>|  <img src="assets/svg/icons/numpy.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="assets/svg/icons/pandas.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="assets/svg/icons/scikit.svg" title="sklearn" alt="sklearn" width="" height="50"/>|  <img src="assets/svg/icons/matplotlib.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="assets/svg/icons/django.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png" title="flask" alt="flask" width="65"/>
 
 ### Data Manipulation
 
