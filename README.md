@@ -4,9 +4,9 @@
 <img src="assets/svg/profile_/sideImage.png" align="right" width="300px" height="300px"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpandey1010&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpandey1010" /> </p>
 
-- 🔭 I’m currently working on **ELIZA**
+- 🔭 I’m currently working on **College Website**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me: [pandeynikhilone@gmail.com](mailto:pandeynikhilone@gmail.com)
 
