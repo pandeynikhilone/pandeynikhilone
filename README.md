@@ -1,4 +1,4 @@
-![Nikhil Pandey's GitHub Banner](assets/svg/profile_/banner.jpg)
+<!-- ![Nikhil Pandey's GitHub Banner](assets/svg/profile_/banner.jpg)
 
 <h3 align="center">AI/ML Enthusiast From India</h3>
 <img src="assets/svg/profile_/sideImage.png" align="right" width="300px" height="300px"> 
@@ -11,39 +11,7 @@
 - 📫 How to reach me: [pandeynikhilone@gmail.com](mailto:pandeynikhilone@gmail.com)
 
 - ⚡ Fun fact: **I love cooking!**
+-->
 
-
-<div>
-
-### Languages & Frontend
-
-| Python3 | C | JS | C++ | HTML | CSS |
-|----------|----------|----------|-------|-------|------|
-| <img src="assets/svg/icons/python.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="assets/svg/icons/c.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="assets/svg/icons/js.png" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="assets/svg/icons/c++.svg" title="Cpp" alt="Cpp" width="55" height="55"/> |  <img src="assets/svg/icons/html-5.png" title="html" alt="html" width="57" height="55"/>| <img src="assets/svg/icons/css.svg" title="html" alt="html" width="57" height="55"/>| 
-
-### AI/ML
-
-| Tensorflow | Keras | Numpy | Pandas | Sklearn | Matplotlib | Django | flask |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="assets/svg/icons/tensorflow.svg" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/>|  <img src="assets/svg/icons/keras.png" title="Keras"  alt="Keras" width="" height="25"/>|  <img src="assets/svg/icons/numpy.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="assets/svg/icons/pandas.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="assets/svg/icons/scikit.svg" title="sklearn" alt="sklearn" width="" height="50"/>|  <img src="assets/svg/icons/matplotlib.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="assets/svg/icons/django.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png" title="flask" alt="flask" width="65"/>
-
-### Data Manipulation
-
-| Excel | Jupyter | PowerBI | MySQL | Tableau |
-|----------|----------|----------|----------|----------|
-|<img src="assets/svg/icons/excel.svg" title="Excel" alt="Excel" width="55" height="55"/>|<img src="assets/svg/icons/jupyter.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="assets/svg/icons/PowerBI.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/>|<img src="assets/svg/icons/mysql.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="assets/svg/icons/tableau.svg" title="Tableau" alt="Tableau" width="55" height="55"/>|
-
-<!-- ### Environments, Testing, Other
-
-| nodejs | Git | Docker | Pytest | Swagger | Postman | Virtual Box| HardHat |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="" title="Git" alt="Git" width="55" height="55"/>|<img src="" title="Docker" alt="Docker" width="55" height="55"/>|<img src="" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="" title="Postman" alt="Postman" width="55" height="55"/>|<img src="" title="Postman" alt="Postman" width="80" height="55"/>| <img src="" title="Swagger" alt="Swagger" width="55" height="55"/>|
-
-### OS: ❤️ (linux one love)
-
-| Linux | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="" title="Linux" alt="Linux" width="55" height="55"/> | <img src="" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="" title="Linux" alt="Linux" width="55" height="55"/> | -->
-<p align="center">
- <img width="1000" src="assets/svg/profile_/github-snake.svg" alt="snake">
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
