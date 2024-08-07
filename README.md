@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning **Frontend Web Development**
 - 📫 How to reach me: [pandeynikhilone@gmail.com](mailto:pandeynikhilone@gmail.com)
 - ⚡ Fun fact: **I love cooking!**
-  
-![](https://github-readme-stats.vercel.app/api?username=pandeynikhilone&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<!--
+![](https://github-readme-stats.vercel.app/api?username=pandeynikhilone&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  -->
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -24,3 +24,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+<!--
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=pandeynikhilone&theme=radical&no-frame=true&margin-w=15&column=7) -->
