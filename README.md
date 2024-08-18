@@ -1,30 +1,45 @@
-<!-- Level 3: Add custom code -->
+![Nikhil Pandey's GitHub Banner](assets/svg/profile_/banner.jpg)
+
+<img src="assets/svg/profile_/sideImage.png" align="right" width="300px" height="300px"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpandey1010&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpandey1010" /> </p>
+
 - 🔭 I’m currently working on **College Website**
-- 🌱 I’m currently learning **Frontend Web Development**
+
+- 🌱 I’m currently learning **Web Development**
+
 - 📫 How to reach me: [pandeynikhilone@gmail.com](mailto:pandeynikhilone@gmail.com)
+
 - ⚡ Fun fact: **I love cooking!**
-<!--
-![](https://github-readme-stats.vercel.app/api?username=pandeynikhilone&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  -->
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<!--
-## 🏆 GitHub Trophies
+<div>
 
-![](https://github-profile-trophy.vercel.app/?username=pandeynikhilone&theme=radical&no-frame=true&margin-w=15&column=7) -->
+### Languages & Frontend
+
+| Python3 | C | JS | C++ | HTML | CSS |
+|----------|----------|----------|-------|-------|------|
+| <img src="assets/svg/icons/python.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="assets/svg/icons/c.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="assets/svg/icons/js.png" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="assets/svg/icons/c++.svg" title="Cpp" alt="Cpp" width="55" height="55"/> |  <img src="assets/svg/icons/html-5.png" title="html" alt="html" width="57" height="55"/>| <img src="assets/svg/icons/css.svg" title="html" alt="html" width="57" height="55"/>| 
+
+### AI/ML
+
+| Tensorflow | Keras | Numpy | Pandas | Sklearn | Matplotlib | Django | flask |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="assets/svg/icons/tensorflow.svg" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/>|  <img src="assets/svg/icons/keras.png" title="Keras"  alt="Keras" width="" height="25"/>|  <img src="assets/svg/icons/numpy.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="assets/svg/icons/pandas.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="assets/svg/icons/scikit.svg" title="sklearn" alt="sklearn" width="" height="50"/>|  <img src="assets/svg/icons/matplotlib.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="assets/svg/icons/django.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png" title="flask" alt="flask" width="65"/>
+
+### Data Manipulation
+
+| Excel | Jupyter | PowerBI | MySQL | Tableau |
+|----------|----------|----------|----------|----------|
+|<img src="assets/svg/icons/excel.svg" title="Excel" alt="Excel" width="55" height="55"/>|<img src="assets/svg/icons/jupyter.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="assets/svg/icons/PowerBI.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/>|<img src="assets/svg/icons/mysql.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="assets/svg/icons/tableau.svg" title="Tableau" alt="Tableau" width="55" height="55"/>|
+
+<!-- ### Environments, Testing, Other
+
+| nodejs | Git | Docker | Pytest | Swagger | Postman | Virtual Box| HardHat |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="" title="Git" alt="Git" width="55" height="55"/>|<img src="" title="Docker" alt="Docker" width="55" height="55"/>|<img src="" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="" title="Postman" alt="Postman" width="55" height="55"/>|<img src="" title="Postman" alt="Postman" width="80" height="55"/>| <img src="" title="Swagger" alt="Swagger" width="55" height="55"/>|
+
+### OS: ❤️ (linux one love)
+
+| Linux | Ubuntu | Kali |
+|----------|----------|----------|
+| <img src="" title="Linux" alt="Linux" width="55" height="55"/> | <img src="" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="" title="Linux" alt="Linux" width="55" height="55"/> | -->
