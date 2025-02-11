@@ -1,7 +1,6 @@
 ![Nikhil Pandey's GitHub Banner](assets/svg/profile_/banner.jpg)
 
-<img src="assets/svg/profile_/sideImage.png" align="right" width="300px" height="300px"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpandey1010&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilpandey1010" /> </p>
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 🔭 I’m currently working on **College Website**
 
