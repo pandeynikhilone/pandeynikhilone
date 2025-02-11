@@ -14,6 +14,8 @@
 
 <div>
 
+
+
 ### Languages & Frontend
 
 | Python3 | C | JS | C++ | HTML | CSS |
