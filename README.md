@@ -2,13 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-- 🔭 I’m currently working on **College Website**
+- 🚀 Currently crafting a sleek and responsive static site **OrderFood** designed to enhance the online food ordering experience! 🍔
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning and implementing **Frontend Development Practices**
 
-- 📫 How to reach me: [pandeynikhilone@gmail.com](mailto:pandeynikhilone@gmail.com)
+- 🚀 Built a **responsive website** for the **TechFest Event**, providing thousands of students with a seamless registration and event experience.
 
-- ⚡ Fun fact: **I love cooking!**
+- 📫 Contact me via an [Email](mailto:pandeynikhilone@gmail.com)
 
 <div>
 
