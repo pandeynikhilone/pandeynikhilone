@@ -1,4 +1,4 @@
-![Nikhil Pandey's GitHub Banner](assets/svg/profile_/banner.jpg)
+![Nikhil Pandey's GitHub Banner](assets/Banner.jpg)
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
